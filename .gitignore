@@ -1,0 +1,8 @@
+node_modules
+.env
+*.log
+.DS_Store
+test-upload.html
+create-test-user.js
+create-test-student.js
+create-admin.js

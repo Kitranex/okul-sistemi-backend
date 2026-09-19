@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const Announcement = require('../models/Announcement');
+const Announcement = require('../models/announcement');
 const auth = require('../middleware/auth');
 const multer = require('multer');
 const cloudinary = require('../middleware/cloudinary');

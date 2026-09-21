@@ -6,3 +6,9 @@ test-upload.html
 create-test-user.js
 create-test-student.js
 create-admin.js
+ocr-data.json
+parse-schedule.js
+debug-ocr.js
+debug-ocr2.js
+debug-ocr3.js
+debug-ocr4.js

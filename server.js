@@ -1,10 +1,25 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const cors = require('cors');
+const fs = require('fs');
+const path = require('path');
 require('dotenv').config();
 
 const app = express();
 app.use(cors());
+// Ders programı JSON'unu sun
+app.get('/api/schedule', (req, res) => {
+  try {
+    const schedulePath = path.join(__dirname, 'schedule.json');
+    if (!fs.existsSync(schedulePath)) {
+      return res.status(404).json({ error: 'Ders programı henüz yüklenmemiş.' });
+    }
+    const data = JSON.parse(fs.readFileSync(schedulePath, 'utf8'));
+    res.json(data);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
 app.use(express.json());
 
 // MongoDB Bağlantısı

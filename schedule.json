@@ -1,0 +1,4302 @@
+{
+  "9-A": {
+    "Pazartesi": [
+      {
+        "ders": "Tarih",
+        "ogretmen": "MEHMET AK"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "MEHMET AK"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SE Ç PRO TAS SEVİL KEMERLİ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SE Ç PRO TAS SEVİL KEMERLİ"
+      },
+      {
+        "ders": "Biyoloji ve Sağlık",
+        "ogretmen": "DİDEM BAYHAN"
+      },
+      {
+        "ders": "Biyoloji ve Sağlık",
+        "ogretmen": "DİDEM BAYHAN"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SEÇ PRO TAS SEVİL KEMERLİ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SEÇ PRO TAS SEVİL KEMERLİ"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "GÜZİN BALCI"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "GÜZİN BALCI"
+      },
+      {
+        "ders": "Biyoloji ve Sağlık",
+        "ogretmen": "DİDEM BAYHAN"
+      },
+      {
+        "ders": "Biyoloji ve Sağlık",
+        "ogretmen": "DİDEM BAYHAN"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "Kimya",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNAK"
+      },
+      {
+        "ders": "Kimya",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNAK"
+      },
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "ÖMER ALKAN"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "ELİF DİDE KUBAT"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "ELİF DİDE KUBAT"
+      },
+      {
+        "ders": "Görsel Sanatlar / Müzik",
+        "ogretmen": "GÜLPINAR BAHÇE"
+      },
+      {
+        "ders": "Görsel Sanatlar / Müzik",
+        "ogretmen": "GÜLPINAR BAHÇE"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "Seç. Bilişim Tek. ve Yazılım",
+        "ogretmen": "HATİCE ÖZTÜRK"
+      },
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "ÖMER ALKAN"
+      },
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "ÖMER ALKAN"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SEÇ PRO TAS SEVİL KEMERLİ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SEÇ PRO TAS SEVİL KEMERLİ"
+      },
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "DİDEM BAYHAN"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "GÜZİN BALCI"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "GÜZİN BALCI"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Fizik",
+        "ogretmen": "SALİH ŞAHİN"
+      },
+      {
+        "ders": "Fizik",
+        "ogretmen": "SALİH ŞAHİN"
+      },
+      {
+        "ders": "Almanca",
+        "ogretmen": "ENİS KARABULUT"
+      },
+      {
+        "ders": "Almanca",
+        "ogretmen": "ENİS KARABULUT"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "GÜZİN BALCI"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "GÜZİN BALCI"
+      }
+    ]
+  },
+  "9-B": {
+    "Pazartesi": [
+      {
+        "ders": "Biyoloji ve Sağlık",
+        "ogretmen": "DİDEM BAYHAN"
+      },
+      {
+        "ders": "Biyoloji ve Sağlık",
+        "ogretmen": "DİDEM BAYHAN"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SEÇ PRO TAS SEVİL KEMERLİ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SEÇ PRO TAS SEVİL KEMERLİ"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "Seç. Bilişim Tek. ve Yazılım",
+        "ogretmen": "HATİCE ÖZTÜRK"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "TUNCAY KILIÇ"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "TUNCAY KILIÇ"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SEÇ PRO TAS SEVİL KEMERLİ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SEÇ PRO TAS SEVİL KEMERLİ"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "MEHMET AK"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "MEHMET AK"
+      },
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "ÖMER ALKAN"
+      },
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "ÖMER ALKAN"
+      },
+      {
+        "ders": "Kimya",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNAK"
+      },
+      {
+        "ders": "Kimya",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNAK"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "Biyoloji ve Sağlık",
+        "ogretmen": "DİDEM BAYHAN"
+      },
+      {
+        "ders": "Biyoloji ve Sağlık",
+        "ogretmen": "DİDEM BAYHAN"
+      },
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "TUNCAY KILIÇ"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "TUNCAY KILIÇ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SEÇ PRO TAS SEVİL KEMERLİ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SEÇ PRO TAS SEVİL KEMERLİ"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "ELİF DİDE KUBAT"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "ELİF DİDE KUBAT"
+      },
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "SEVİL KEMERLİ"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "ÖMER ALKAN"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "TUNCAY KILIÇ"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "TUNCAY KILIÇ"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "Almanca",
+        "ogretmen": "ENİS KARABULUT"
+      },
+      {
+        "ders": "Almanca",
+        "ogretmen": "ENİS KARABULUT"
+      },
+      {
+        "ders": "Görsel Sanatlar / Müzik",
+        "ogretmen": "GÜLPINAR BAHÇE"
+      },
+      {
+        "ders": "Görsel Sanatlar / Müzik",
+        "ogretmen": "GÜLPINAR BAHÇE"
+      },
+      {
+        "ders": "Fizik",
+        "ogretmen": "SALİH ŞAHİN"
+      },
+      {
+        "ders": "Fizik",
+        "ogretmen": "SALİH ŞAHİN"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      }
+    ]
+  },
+  "9-C": {
+    "Pazartesi": [
+      {
+        "ders": "Matematik",
+        "ogretmen": "TUNCAY KILIÇ"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "TUNCAY KILIÇ"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      },
+      {
+        "ders": "Görsel Sanatlar / Müzik",
+        "ogretmen": "GÜLPINAR BAHÇE"
+      },
+      {
+        "ders": "Görsel Sanatlar / Müzik",
+        "ogretmen": "GÜLPINAR BAHÇE"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "Matematik",
+        "ogretmen": "TUNCAY KILIÇ"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "TUNCAY KILIÇ"
+      },
+      {
+        "ders": "Kimya",
+        "ogretmen": "ASLIHAN ALTUĞ"
+      },
+      {
+        "ders": "Kimya",
+        "ogretmen": "ASLIHAN ALTUĞ"
+      },
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Fizik",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      },
+      {
+        "ders": "Fizik",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "Almanca",
+        "ogretmen": "ENİS KARABULUT"
+      },
+      {
+        "ders": "Almanca",
+        "ogretmen": "ENİS KARABULUT"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "MEHMET AK"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "MEHMET AK"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SE Ç PRO TAS BUSE KÖRHALİLLER"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SE Ç PRO TAS BUSE KÖRHALİLLER"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "TUNCAY KILIÇ"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "TUNCAY KILIÇ"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "Biyoloji ve Sağlık",
+        "ogretmen": "SİBEL DURAN"
+      },
+      {
+        "ders": "Biyoloji ve Sağlık",
+        "ogretmen": "SİBEL DURAN"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SEÇ PRO TAS BUSE KÖRHALİLLER"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SEÇ PRO TAS BUSE KÖRHALİLLER"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      },
+      {
+        "ders": "Seç. Bilişim Tek. ve Yazılım",
+        "ogretmen": "HATİCE ÖZTÜRK"
+      },
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "ÖMER ALKAN"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "Biyoloji ve Sağlık",
+        "ogretmen": "SİBEL DURAN"
+      },
+      {
+        "ders": "Biyoloji ve Sağlık",
+        "ogretmen": "SİBEL DURAN"
+      },
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "ÖMER ALKAN"
+      },
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "ÖMER ALKAN"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SE Ç PRO TAS BUSE KÖRHALİLLER"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SE Ç PRO TAS BUSE KÖRHALİLLER"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      },
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "SİBEL DURAN"
+      }
+    ]
+  },
+  "9-D": {
+    "Pazartesi": [
+      {
+        "ders": "Fizik",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      },
+      {
+        "ders": "Fizik",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "MEHMET AK"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "MEHMET AK"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "DİCLE TUNA"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "DİCLE TUNA"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SEÇ PRO TAS FATMA ÖZGE KILIÇ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SEÇ PRO TAS FATMA ÖZGE KILIÇ"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "MEHMET AK"
+      },
+      {
+        "ders": "Seç. Bilişim Tek. ve Yazılım",
+        "ogretmen": "HATİCE ÖZTÜRK"
+      },
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "ÖMER ALKAN"
+      },
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "ÖMER ALKAN"
+      },
+      {
+        "ders": "Biyoloji ve Sağlık",
+        "ogretmen": "SİBEL DURAN"
+      },
+      {
+        "ders": "Biyoloji ve Sağlık",
+        "ogretmen": "SİBEL DURAN"
+      },
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "ÖMER ALKAN"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      },
+      {
+        "ders": "Almanca",
+        "ogretmen": "ENİS KARABULUT"
+      },
+      {
+        "ders": "Almanca",
+        "ogretmen": "ENİS KARABULUT"
+      },
+      {
+        "ders": "Kimya",
+        "ogretmen": "SERDAR SUSAM"
+      },
+      {
+        "ders": "Kimya",
+        "ogretmen": "SERDAR SUSAM"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "DİCLE TUNA"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "DİCLE TUNA"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "Matematik",
+        "ogretmen": "DİCLE TUNA"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "DİCLE TUNA"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SE Ç PRO TAS FATMA ÖZGE KILIÇ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SE Ç PRO TAS FATMA ÖZGE KILIÇ"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SEÇ PRO TAS FATMA ÖZGE KILIÇ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SEÇ PRO TAS FATMA ÖZGE KILIÇ"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      },
+      {
+        "ders": "Biyoloji ve Sağlık",
+        "ogretmen": "SİBEL DURAN"
+      },
+      {
+        "ders": "Biyoloji ve Sağlık",
+        "ogretmen": "SİBEL DURAN"
+      },
+      {
+        "ders": "Görsel Sanatlar / Müzik",
+        "ogretmen": "GÜLPINAR BAHÇE"
+      },
+      {
+        "ders": "Görsel Sanatlar / Müzik",
+        "ogretmen": "GÜLPINAR BAHÇE"
+      }
+    ]
+  },
+  "9-E": {
+    "Pazartesi": [
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SEÇ PRO TAS RUKİYE ÜNLÜ FUTTU"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SEÇ PRO TAS RUKİYE ÜNLÜ FUTTU"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "MUSTAFA SARI"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "MUSTAFA SARI"
+      },
+      {
+        "ders": "Biyoloji ve Sağlık",
+        "ogretmen": "NEJLA LEVENT"
+      },
+      {
+        "ders": "Biyoloji ve Sağlık",
+        "ogretmen": "NEJLA LEVENT"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "Fizik",
+        "ogretmen": "KEMAL ERDEM"
+      },
+      {
+        "ders": "Fizik",
+        "ogretmen": "KEMAL ERDEM"
+      },
+      {
+        "ders": "Kimya",
+        "ogretmen": "SERDAR SUSAM"
+      },
+      {
+        "ders": "Kimya",
+        "ogretmen": "SERDAR SUSAM"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "MUSTAFA SARI"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "MUSTAFA SARI"
+      },
+      {
+        "ders": "Görsel Sanatlar / Müzik",
+        "ogretmen": "GÜLPINAR BAHÇE"
+      },
+      {
+        "ders": "Görsel Sanatlar / Müzik",
+        "ogretmen": "GÜLPINAR BAHÇE"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "Tarih",
+        "ogretmen": "MEHMET AK"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "MEHMET AK"
+      },
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "ÖMER ALKAN"
+      },
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "MUSTAFA SARI"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "Seç. Bilişim Tek. ve Yazılım",
+        "ogretmen": "HATİCE ÖZTÜRK"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "MUSTAFA SARI"
+      },
+      {
+        "ders": "Matematik",
+        "ogretmen": "MUSTAFA SARI"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SEÇ PRO TAS RUKİYE ÜNLÜ FUTTU"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SEÇ PRO TAS RUKİYE ÜNLÜ FUTTU"
+      },
+      {
+        "ders": "Biyoloji ve Sağlık",
+        "ogretmen": "NEJLA LEVENT"
+      },
+      {
+        "ders": "Biyoloji ve Sağlık",
+        "ogretmen": "NEJLA LEVENT"
+      },
+      {
+        "ders": "Almanca",
+        "ogretmen": "ENİS KARABULUT"
+      },
+      {
+        "ders": "Almanca",
+        "ogretmen": "ENİS KARABULUT"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SEÇ PRO TAS RUKİYE ÜNLÜ FUTTU"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "İLİZCE+SEÇ PRO TAS RUKİYE ÜNLÜ FUTTU"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "ÖMER ALKAN"
+      },
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "ÖMER ALKAN"
+      }
+    ]
+  },
+  "10-A": {
+    "Pazartesi": [
+      {
+        "ders": "Kimya",
+        "ogretmen": "ASLIHAN ALTUĞ"
+      },
+      {
+        "ders": "Kimya",
+        "ogretmen": "ASLIHAN ALTUĞ"
+      },
+      {
+        "ders": "M+TSHA AHMET ARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "M+TSHA AHMET ARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "MEHMET YARICI"
+      },
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "MEHMET YARICI"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "Fizik + Seç. Proje Tasarımı",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      },
+      {
+        "ders": "Fizik + Seç. Proje Tasarımı",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "M+TSHA AHMET ARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "M+TSHA AHMET ARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "M+TSHA AHMET ARICI",
+        "ogretmen": "-"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "Görsel Sanatlar / Müzik",
+        "ogretmen": "GÜLPINAR BAHÇE"
+      },
+      {
+        "ders": "Görsel Sanatlar / Müzik",
+        "ogretmen": "GÜLPINAR BAHÇE"
+      },
+      {
+        "ders": "Fizik + Seç. Proje Tasarımı",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      },
+      {
+        "ders": "Fizik + Seç. Proje Tasarımı",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      },
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      },
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      },
+      {
+        "ders": "Biyoloji",
+        "ogretmen": "DİDEM BAYHAN"
+      },
+      {
+        "ders": "Biyoloji",
+        "ogretmen": "DİDEM BAYHAN"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "Almanca",
+        "ogretmen": "ENİS KARABULUT"
+      },
+      {
+        "ders": "Almanca",
+        "ogretmen": "ENİS KARABULUT"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BÜŞRA BERBEROĞLU"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BÜŞRA BERBEROĞLU"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "ELİF DİDE KUBAT"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "ELİF DİDE KUBAT"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "SEVDA KADAKAL"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "SEVDA KADAKAL"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BÜŞRA BERBEROĞLU"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BÜŞRA BERBEROĞLU"
+      },
+      {
+        "ders": "M+TSHA AHMET ARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "M+TSHA AHMET ARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "MEHMET YARICI"
+      }
+    ]
+  },
+  "10-B": {
+    "Pazartesi": [
+      {
+        "ders": "İngilizce",
+        "ogretmen": "FATMA ÖZGE KILIÇ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "FATMA ÖZGE KILIÇ"
+      },
+      {
+        "ders": "M+TSHA TUNCAY KILIÇ",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "M+TSHA TUNCAY KILIÇ",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "Fizik + Seç. Proje Tasarımı",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      },
+      {
+        "ders": "Fizik + Seç. Proje Tasarımı",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      },
+      {
+        "ders": "Biyoloji",
+        "ogretmen": "ESRA SANCAR"
+      },
+      {
+        "ders": "Biyoloji",
+        "ogretmen": "ESRA SANCAR"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      },
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      },
+      {
+        "ders": "M+TSHA TUNCAY KILIÇ",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "M+TSHA TUNCAY KILIÇ",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "FATMA ÖZGE KILIÇ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "FATMA ÖZGE KILIÇ"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "SEVDA KADAKAL"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "SEVDA KADAKAL"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "MEHMET YARICI"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "Görsel Sanatlar / Müzik",
+        "ogretmen": "GÜLPINAR BAHÇE"
+      },
+      {
+        "ders": "Görsel Sanatlar / Müzik",
+        "ogretmen": "GÜLPINAR BAHÇE"
+      },
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "DAHA ALKAŞİ"
+      },
+      {
+        "ders": "M+TSHA TUNCAY KILIÇ",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "M+TSHA TUNCAY KILIÇ",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "M+TSHA TUNCAY KILIÇ",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "ELİF DİDE KUBAT"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "ELİF DİDE KUBAT"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "Fizik + Seç. Proje Tasarımı",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      },
+      {
+        "ders": "Fizik + Seç. Proje Tasarımı",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      },
+      {
+        "ders": "Kimya",
+        "ogretmen": "ASLIHAN ALTUĞ"
+      },
+      {
+        "ders": "Kimya",
+        "ogretmen": "ASLIHAN ALTUĞ"
+      },
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "MEHMET YARICI"
+      },
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "MEHMET YARICI"
+      },
+      {
+        "ders": "Almanca",
+        "ogretmen": "ENİS KARABULUT"
+      },
+      {
+        "ders": "Almanca",
+        "ogretmen": "ENİS KARABULUT"
+      }
+    ]
+  },
+  "10-C": {
+    "Pazartesi": [
+      {
+        "ders": "Görsel Sanatlar / Müzik",
+        "ogretmen": "GÜLPINAR BAHÇE"
+      },
+      {
+        "ders": "Görsel Sanatlar / Müzik",
+        "ogretmen": "GÜLPINAR BAHÇE"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      },
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "RUKİYE ÜNLÜ FUTTU"
+      },
+      {
+        "ders": "M+TSHA MURAT BULUT",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "M+TSHA MURAT BULUT",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "M+TSHA MURAT BULUT",
+        "ogretmen": "-"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "ELİF DİDE KUBAT"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "ELİF DİDE KUBAT"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "RUKİYE ÜNLÜ FUTTU"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "RUKİYE ÜNLÜ FUTTU"
+      },
+      {
+        "ders": "Fizik + Seç. Proje Tasarımı",
+        "ogretmen": "SALİH ŞAHİN"
+      },
+      {
+        "ders": "Fizik + Seç. Proje Tasarımı",
+        "ogretmen": "SALİH ŞAHİN"
+      },
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      },
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      },
+      {
+        "ders": "Fizik + Seç. Proje Tasarımı",
+        "ogretmen": "SALİH ŞAHİN"
+      },
+      {
+        "ders": "Fizik + Seç. Proje Tasarımı",
+        "ogretmen": "SALİH ŞAHİN"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "SEVDA KADAKAL"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "SEVDA KADAKAL"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "MEHMET YARICI"
+      },
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "MEHMET YARICI"
+      },
+      {
+        "ders": "Almanca",
+        "ogretmen": "ENİS KARABULUT"
+      },
+      {
+        "ders": "Almanca",
+        "ogretmen": "ENİS KARABULUT"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "RUKİYE ÜNLÜ FUTTU"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "RUKİYE ÜNLÜ FUTTU"
+      },
+      {
+        "ders": "M+TSHA MURAT BULUT",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "M+TSHA MURAT BULUT",
+        "ogretmen": "-"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "M+TSHA MURAT BULUT",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "M+TSHA MURAT BULUT",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "Biyoloji",
+        "ogretmen": "ESRA SANCAR"
+      },
+      {
+        "ders": "Biyoloji",
+        "ogretmen": "ESRA SANCAR"
+      },
+      {
+        "ders": "Kimya",
+        "ogretmen": "SERDAR SUSAM"
+      },
+      {
+        "ders": "Kimya",
+        "ogretmen": "SERDAR SUSAM"
+      },
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "MEHMET YARICI"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      }
+    ]
+  },
+  "10-D": {
+    "Pazartesi": [
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      },
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "FATMA ÖZGE KILIÇ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "FATMA ÖZGE KILIÇ"
+      },
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "FATMA ÖZGE KILIÇ"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      },
+      {
+        "ders": "Kimya",
+        "ogretmen": "SERDAR SUSAM"
+      },
+      {
+        "ders": "Kimya",
+        "ogretmen": "SERDAR SUSAM"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "M+TSHA MURAT BULUT",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "M+TSHA MURAT BULUT",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "Görsel Sanatlar / Müzik",
+        "ogretmen": "GÜLPINAR BAHÇE"
+      },
+      {
+        "ders": "Görsel Sanatlar / Müzik",
+        "ogretmen": "GÜLPINAR BAHÇE"
+      },
+      {
+        "ders": "Fizik + Seç. Proje Tasarımı",
+        "ogretmen": "SALİH ŞAHİN"
+      },
+      {
+        "ders": "Fizik + Seç. Proje Tasarımı",
+        "ogretmen": "SALİH ŞAHİN"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      },
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "MEHMET YARICI"
+      },
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "MEHMET YARICI"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "FUNDA KOTAN"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "FUNDA KOTAN"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "M+TSHA MURAT BULUT",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "M+TSHA MURAT BULUT",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "Fizik + Seç. Proje Tasarımı",
+        "ogretmen": "SALİH ŞAHİN"
+      },
+      {
+        "ders": "Fizik + Seç. Proje Tasarımı",
+        "ogretmen": "SALİH ŞAHİN"
+      },
+      {
+        "ders": "Almanca",
+        "ogretmen": "ENİS KARABULUT"
+      },
+      {
+        "ders": "Almanca",
+        "ogretmen": "ENİS KARABULUT"
+      },
+      {
+        "ders": "Biyoloji",
+        "ogretmen": "ESRA SANCAR"
+      },
+      {
+        "ders": "Biyoloji",
+        "ogretmen": "ESRA SANCAR"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      },
+      {
+        "ders": "Din Kültürü + Peygamberimizin Hayatı",
+        "ogretmen": "MEHMET YARICI"
+      },
+      {
+        "ders": "M+TSHA MURAT BULUT",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "M+TSHA MURAT BULUT",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "M+TSHA MURAT BULUT",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "FATMA ÖZGE KILIÇ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "FATMA ÖZGE KILIÇ"
+      }
+    ]
+  },
+  "10-E": {
+    "Pazartesi": [
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      },
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Kimya",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNA K"
+      },
+      {
+        "ders": "Kimya",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNA K"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "Fizik + Seç. Proje Tasarımı",
+        "ogretmen": "SALİH ŞAHİN"
+      },
+      {
+        "ders": "Fizik + Seç. Proje Tasarımı",
+        "ogretmen": "SALİH ŞAHİN"
+      },
+      {
+        "ders": "Biyoloji",
+        "ogretmen": "ESRA SANCAR"
+      },
+      {
+        "ders": "Biyoloji",
+        "ogretmen": "ESRA SANCAR"
+      },
+      {
+        "ders": "Almanca",
+        "ogretmen": "ENİS KARABULUT"
+      },
+      {
+        "ders": "Almanca",
+        "ogretmen": "ENİS KARABULUT"
+      },
+      {
+        "ders": "M+TSHA TUNCAY KILIÇ",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "M+TSHA TUNCAY KILIÇ",
+        "ogretmen": "-"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "TUNCAY KILIÇ"
+      },
+      {
+        "ders": "M+TSHA TUNCAY KILIÇ",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "M+TSHA TUNCAY KILIÇ",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "M+TSHA TUNCAY KILIÇ",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "FUNDA KOTAN"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "FUNDA KOTAN"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "M+TSHA TUNCAY KILIÇ",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "M+TSHA TUNCAY KILIÇ",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "METİN CEYLAN"
+      },
+      {
+        "ders": "Seç. Peygamberimizin Hayatı",
+        "ogretmen": "FUNDA KOTAN"
+      },
+      {
+        "ders": "DKAB MEHMET YARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "DKAB MEHMET YARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "FATMA ÖZGE KILIÇ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "FATMA ÖZGE KILIÇ"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "Fizik + Seç. Proje Tasarımı",
+        "ogretmen": "SALİH ŞAHİN"
+      },
+      {
+        "ders": "Fizik + Seç. Proje Tasarımı",
+        "ogretmen": "SALİH ŞAHİN"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "FATMA ÖZGE KILIÇ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "FATMA ÖZGE KILIÇ"
+      },
+      {
+        "ders": "Görsel Sanatlar / Müzik",
+        "ogretmen": "GÜLPINAR BAHÇE"
+      },
+      {
+        "ders": "Görsel Sanatlar / Müzik",
+        "ogretmen": "GÜLPINAR BAHÇE"
+      },
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      },
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      }
+    ]
+  },
+  "10-F": {
+    "Pazartesi": [
+      {
+        "ders": "Biyoloji",
+        "ogretmen": "ESRA SANCAR"
+      },
+      {
+        "ders": "Biyoloji",
+        "ogretmen": "ESRA SANCAR"
+      },
+      {
+        "ders": "Görsel Sanatlar / Müzik",
+        "ogretmen": "GÜLPINAR BAHÇE"
+      },
+      {
+        "ders": "Görsel Sanatlar / Müzik",
+        "ogretmen": "GÜLPINAR BAHÇE"
+      },
+      {
+        "ders": "DKAB MEHMET YARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "DKAB MEHMET YARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "Kimya",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNAK"
+      },
+      {
+        "ders": "Kimya",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNAK"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "İngilizce",
+        "ogretmen": "RUKİYE ÜNLÜ FUTTU"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "RUKİYE ÜNLÜ FUTTU"
+      },
+      {
+        "ders": "M+TSHA AHMET ARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "M+TSHA AHMET ARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "M+TSHA AHMET ARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "FATMA İMAMOĞLU ATAR"
+      },
+      {
+        "ders": "Almanca",
+        "ogretmen": "ENİS KARABULUT"
+      },
+      {
+        "ders": "Almanca",
+        "ogretmen": "ENİS KARABULUT"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "Fizik + Seç. Proje Tasarımı",
+        "ogretmen": "AYLİN GÜL"
+      },
+      {
+        "ders": "Fizik + Seç. Proje Tasarımı",
+        "ogretmen": "AYLİN GÜL"
+      },
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      },
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      },
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "Seç. Peygamberimizin Hayatı",
+        "ogretmen": "ÖMER ALKAN"
+      },
+      {
+        "ders": "M+TSHA AHMET ARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "M+TSHA AHMET ARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "FATMA İMAMOĞLU ATAR"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "FATMA İMAMOĞLU ATAR"
+      },
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "ESRA SANCAR"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "FUNDA KOTAN"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "FUNDA KOTAN"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "M+TSHA AHMET ARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "M+TSHA AHMET ARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "RUKİYE ÜNLÜ FUTTU"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "RUKİYE ÜNLÜ FUTTU"
+      },
+      {
+        "ders": "Fizik + Seç. Proje Tasarımı",
+        "ogretmen": "AYLİN GÜL"
+      },
+      {
+        "ders": "Fizik + Seç. Proje Tasarımı",
+        "ogretmen": "AYLİN GÜL"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "FATMA İMAMOĞLU ATAR"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "FATMA İMAMOĞLU ATAR"
+      }
+    ]
+  },
+  "11-A": {
+    "Pazartesi": [
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "MURAT BULUT"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "MEHMET ENGİN KAHYA"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "MURAT BULUT"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "MURAT BULUT"
+      },
+      {
+        "ders": "Seçmeli Biyoloji",
+        "ogretmen": "ESRA SANCAR"
+      },
+      {
+        "ders": "Seçmeli Biyoloji",
+        "ogretmen": "ESRA SANCAR"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "ASLIHAN ALTUĞ"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "ASLIHAN ALTUĞ"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "MURAT BULUT"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "MURAT BULUT"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "SEVİL KEMERLİ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "SEVİL KEMERLİ"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "ASLIHAN ALTUĞ"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "ASLIHAN ALTUĞ"
+      },
+      {
+        "ders": "DKAB MEHMET YARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "DKAB MEHMET YARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      },
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "Tarih",
+        "ogretmen": "SEVDA KADAKAL"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "SEVDA KADAKAL"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "MEHMET ENGİN KAHYA"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "MEHMET ENGİN KAHYA"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "MURAT BULUT"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "MURAT BULUT"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "SEVİL KEMERLİ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "SEVİL KEMERLİ"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "Seçmeli Biyoloji",
+        "ogretmen": "ESRA SANCAR"
+      },
+      {
+        "ders": "Seçmeli Biyoloji",
+        "ogretmen": "ESRA SANCAR"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "ELİF DİDE KUBAT"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "ELİF DİDE KUBAT"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "MEHMET ENGİN KAHYA"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "MEHMET ENGİN KAHYA"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "MURAT BULUT"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "MURAT BULUT"
+      }
+    ]
+  },
+  "11-B": {
+    "Pazartesi": [
+      {
+        "ders": "DKAB MEHMET YARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "DKAB MEHMET YARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "MEHMET ENGİN KAHYA"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "MEHMET ENGİN KAHYA"
+      },
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      },
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "ASLIHAN ALTUĞ"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "ASLIHAN ALTUĞ"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "EMEL GÖKBULUT"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "EMEL GÖKBULUT"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "ELİF DİDE KUBAT"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "ELİF DİDE KUBAT"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "EMEL GÖKBULUT"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "EMEL GÖKBULUT"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BUSE KÖRHALİLLER"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BUSE KÖRHALİLLER"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "Seçmeli Biyoloji",
+        "ogretmen": "SİBEL DURAN"
+      },
+      {
+        "ders": "Seçmeli Biyoloji",
+        "ogretmen": "SİBEL DURAN"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "KEMAL ERDEM"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "KEMAL ERDEM"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "MEHMET ENGİN KAHYA"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "MEHMET ENGİN KAHYA"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "KEMAL ERDEM"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "KEMAL ERDEM"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "EMEL GÖKBULUT"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "EMEL GÖKBULUT"
+      },
+      {
+        "ders": "Seçmeli Biyoloji",
+        "ogretmen": "SİBEL DURAN"
+      },
+      {
+        "ders": "Seçmeli Biyoloji",
+        "ogretmen": "SİBEL DURAN"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "SEVDA KADAKAL"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "SEVDA KADAKAL"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BUSE KÖRHALİLLER"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BUSE KÖRHALİLLER"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "ASLIHAN ALTUĞ"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "ASLIHAN ALTUĞ"
+      },
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "EMEL GÖKBULUT"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "MEHMET ENGİN KAHYA"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "KEMAL ERDEM"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "KEMAL ERDEM"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "EMEL GÖKBULUT"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "EMEL GÖKBULUT"
+      }
+    ]
+  },
+  "11-C": {
+    "Pazartesi": [
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "SERDAR SUSAM"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "SERDAR SUSAM"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "KEMAL ERDEM"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "KEMAL ERDEM"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BÜŞRA BERBEROĞLU"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BÜŞRA BERBEROĞLU"
+      },
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "KEMAL ERDEM"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "Seçmeli Biyoloji",
+        "ogretmen": "SİBEL DURAN"
+      },
+      {
+        "ders": "Seçmeli Biyoloji",
+        "ogretmen": "SİBEL DURAN"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "SEVDA KADAKAL"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "SEVDA KADAKAL"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "KEMAL ERDEM"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "KEMAL ERDEM"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "EMEL GÖKBULUT"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "EMEL GÖKBULUT"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "EMEL GÖKBULUT"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "EMEL GÖKBULUT"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "KEMAL ERDEM"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "KEMAL ERDEM"
+      },
+      {
+        "ders": "DKAB MEHMET YARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "DKAB MEHMET YARICI",
+        "ogretmen": "-"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BÜŞRA BERBEROĞLU"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BÜŞRA BERBEROĞLU"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "ELİF DİDE KUBAT"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "ELİF DİDE KUBAT"
+      },
+      {
+        "ders": "Seçmeli Biyoloji",
+        "ogretmen": "SİBEL DURAN"
+      },
+      {
+        "ders": "Seçmeli Biyoloji",
+        "ogretmen": "SİBEL DURAN"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "EMEL GÖKBULUT"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "EMEL GÖKBULUT"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "EMEL GÖKBULUT"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "EMEL GÖKBULUT"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      },
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      },
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "SERDAR SUSAM"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "SERDAR SUSAM"
+      }
+    ]
+  },
+  "11-D": {
+    "Pazartesi": [
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "MUSTAFA SARI"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "MUSTAFA SARI"
+      },
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "SEVDA ARSLAN"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "NİMET YILMAZ ÖRTÜLÜ"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "KEMAL ERDEM"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "KEMAL ERDEM"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BÜŞRA BERBEROĞLU"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BÜŞRA BERBEROĞLU"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "SERDAR SUSAM"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "SERDAR SUSAM"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "MUSTAFA SARI"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "MUSTAFA SARI"
+      },
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      },
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "KEMAL ERDEM"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "KEMAL ERDEM"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "NİMET YILMAZ ÖRTÜLÜ"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "NİMET YILMAZ ÖRTÜLÜ"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "SEVDA KADAKAL"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "SEVDA KADAKAL"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "MUSTAFA SARI"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "MUSTAFA SARI"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "SERDAR SUSAM"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "SERDAR SUSAM"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "NİMET YILMAZ ÖRTÜLÜ"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "NİMET YILMAZ ÖRTÜLÜ"
+      },
+      {
+        "ders": "DKAB MEHMET YARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "DKAB MEHMET YARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      },
+      {
+        "ders": "Seçmeli Biyoloji",
+        "ogretmen": "NEJLA LEVENT"
+      },
+      {
+        "ders": "Seçmeli Biyoloji",
+        "ogretmen": "NEJLA LEVENT"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BÜŞRA BERBEROĞLU"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BÜŞRA BERBEROĞLU"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "KEMAL ERDEM"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "KEMAL ERDEM"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "MUSTAFA SARI"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "MUSTAFA SARI"
+      },
+      {
+        "ders": "Seçmeli Biyoloji",
+        "ogretmen": "NEJLA LEVENT"
+      },
+      {
+        "ders": "Seçmeli Biyoloji",
+        "ogretmen": "NEJLA LEVENT"
+      }
+    ]
+  },
+  "11-E": {
+    "Pazartesi": [
+      {
+        "ders": "Seçmeli Biyoloji",
+        "ogretmen": "NEJLA LEVENT"
+      },
+      {
+        "ders": "Seçmeli Biyoloji",
+        "ogretmen": "NEJLA LEVENT"
+      },
+      {
+        "ders": "DKAB MEHMET YARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "DKAB MEHMET YARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "SEVDA KADAKAL"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "SEVDA KADAKAL"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "DİCLE TUNA"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "DİCLE TUNA"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "NİMET YILMAZ ÖRTÜLÜ"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "NİMET YILMAZ ÖRTÜLÜ"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "DİCLE TUNA"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "DİCLE TUNA"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNA K"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNA K"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AYLİN GÜL"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AYLİN GÜL"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BUSE KÖRHALİLLER"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BUSE KÖRHALİLLER"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "DİCLE TUNA"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "DİCLE TUNA"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "NİMET YILMAZ ÖRTÜLÜ"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "NİMET YILMAZ ÖRTÜLÜ"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "Seçmeli Biyoloji",
+        "ogretmen": "NEJLA LEVENT"
+      },
+      {
+        "ders": "Seçmeli Biyoloji",
+        "ogretmen": "NEJLA LEVENT"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AYLİN GÜL"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AYLİN GÜL"
+      },
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "DİCLE TUNA"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "NİMET YILMAZ ÖRTÜLÜ"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "DİCLE TUNA"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "DİCLE TUNA"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BUSE KÖRHALİLLER"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BUSE KÖRHALİLLER"
+      },
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      },
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNA K"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNA K"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AYLİN GÜL"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AYLİN GÜL"
+      }
+    ]
+  },
+  "11-F": {
+    "Pazartesi": [
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "DİCLE TUNA"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "DİCLE TUNA"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "MEHMET ENGİN KAHYA"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "MEHMET ENGİN KAHYA"
+      },
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      },
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "DİCLE TUNA"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "DİCLE TUNA"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "MEHMET ENGİN KAHYA"
+      },
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "BUSE KÖRHALİLLER"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "SEVDA KADAKAL"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "SEVDA KADAKAL"
+      },
+      {
+        "ders": "Seçmeli Biyoloji",
+        "ogretmen": "ESRA SANCAR"
+      },
+      {
+        "ders": "Seçmeli Biyoloji",
+        "ogretmen": "ESRA SANCAR"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "DİCLE TUNA"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "DİCLE TUNA"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BUSE KÖRHALİLLER"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BUSE KÖRHALİLLER"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNAK"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNAK"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "Seçmeli Biyoloji",
+        "ogretmen": "ESRA SANCAR"
+      },
+      {
+        "ders": "Seçmeli Biyoloji",
+        "ogretmen": "ESRA SANCAR"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "DİCLE TUNA"
+      },
+      {
+        "ders": "Seç. Matematik + Demokrasi",
+        "ogretmen": "DİCLE TUNA"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "MEHMET ENGİN KAHYA"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "MEHMET ENGİN KAHYA"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "DKAB MEHMET YARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "DKAB MEHMET YARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNAK"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNAK"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AHMET ÖZBAYSAR"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BUSE KÖRHALİLLER"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BUSE KÖRHALİLLER"
+      }
+    ]
+  },
+  "11-G": {
+    "Pazartesi": [
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      },
+      {
+        "ders": "S.TAR SEVDA KADAKAL",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "S.TAR SEVDA KADAKAL",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      },
+      {
+        "ders": "SM+GS/M MUSTAFA SARI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "SM+GS/M MUSTAFA SARI",
+        "ogretmen": "-"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BÜŞRA BERBEROĞLU"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BÜŞRA BERBEROĞLU"
+      },
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      },
+      {
+        "ders": "Beden Eğitimi ve Spor",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      },
+      {
+        "ders": "SM+GS/M MUSTAFA SARI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "SM+GS/M MUSTAFA SARI",
+        "ogretmen": "-"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "SM+GS/M MUSTAFA SARI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "SM+GS/M MUSTAFA SARI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BÜŞRA BERBEROĞLU"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BÜŞRA BERBEROĞLU"
+      },
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "KAM FUNDA KOTAN",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "KAM FUNDA KOTAN",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "SDvİH HATİCE ÖZTÜRK",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      },
+      {
+        "ders": "DKAB MEHMET YARICI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "DKAB MEHMET YARICI",
+        "ogretmen": "-"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      },
+      {
+        "ders": "Felsefe",
+        "ogretmen": "SEVDA ARSLAN"
+      },
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "MEHMET AK"
+      },
+      {
+        "ders": "Tarih",
+        "ogretmen": "MEHMET AK"
+      },
+      {
+        "ders": "SM+GS/M MUSTAFA SARI",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "SM+GS/M MUSTAFA SARI",
+        "ogretmen": "-"
+      }
+    ]
+  },
+  "12-A": {
+    "Pazartesi": [
+      {
+        "ders": "İngilizce",
+        "ogretmen": "SEVİL KEMERLİ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "SEVİL KEMERLİ"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "NEJLA LEVENT"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "NEJLA LEVENT"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "ASLIHAN ALTUĞ"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "ASLIHAN ALTUĞ"
+      },
+      {
+        "ders": "TC İnkılap Tarihi ve Atatürkçülük",
+        "ogretmen": "MEHMET AK"
+      },
+      {
+        "ders": "TC İnkılap Tarihi ve Atatürkçülük",
+        "ogretmen": "MEHMET AK"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "GÜZİN BALCI"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "GÜZİN BALCI"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "NEJLA LEVENT"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "NEJLA LEVENT"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AYLİN GÜL"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AYLİN GÜL"
+      },
+      {
+        "ders": "Beden Eğitimi / Görsel Sanatlar",
+        "ogretmen": "ELİF DİDE KUBAT / FİKRET KEKLİK"
+      },
+      {
+        "ders": "Beden Eğitimi / Görsel Sanatlar",
+        "ogretmen": "ELİF DİDE KUBAT / FİKRET KEKLİK"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "ASLIHAN ALTUĞ"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "ASLIHAN ALTUĞ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "SEVİL KEMERLİ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "SEVİL KEMERLİ"
+      },
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "AYLİN GÜL"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "GÜZİN BALCI"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "GÜZİN BALCI"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "GÜZİN BALCI"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "GÜZİN BALCI"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "GÜZİN BALCI"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "GÜZİN BALCI"
+      },
+      {
+        "ders": "DKAB ÖMER ALKAN",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "DKAB ÖMER ALKAN",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "FATMA İMAMOĞLU ATAR"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "FATMA İMAMOĞLU ATAR"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "FATMA İMAMOĞLU ATAR"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AYLİN GÜL"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AYLİN GÜL"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "NEJLA LEVENT"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "NEJLA LEVENT"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "FATMA İMAMOĞLU ATAR"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "FATMA İMAMOĞLU ATAR"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "MEHMET AK"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "MEHMET AK"
+      }
+    ]
+  },
+  "12-B": {
+    "Pazartesi": [
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "ASLIHAN ALTUĞ"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "ASLIHAN ALTUĞ"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "MEHMET AK"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "MEHMET AK"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "SEVİL KEMERLİ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "SEVİL KEMERLİ"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "MEHMET ENGİN KAHYA"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "MEHMET ENGİN KAHYA"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "MEHMET ENGİN KAHYA"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "NEJLA LEVENT"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "NEJLA LEVENT"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "Beden Eğitimi / Görsel Sanatlar",
+        "ogretmen": "ELİF DİDE KUBAT / EMRAH ÇALIŞKAN"
+      },
+      {
+        "ders": "Beden Eğitimi / Görsel Sanatlar",
+        "ogretmen": "ELİF DİDE KUBAT / EMRAH ÇALIŞKAN"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "MEHMET ENGİN KAHYA"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "MEHMET ENGİN KAHYA"
+      },
+      {
+        "ders": "DKAB ÖMER ALKAN",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "DKAB ÖMER ALKAN",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AYLİN GÜL"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AYLİN GÜL"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "İngilizce",
+        "ogretmen": "SEVİL KEMERLİ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "SEVİL KEMERLİ"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "NEJLA LEVENT"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "NEJLA LEVENT"
+      },
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "TC İnkılap Tarihi ve Atatürkçülük",
+        "ogretmen": "MEHMET AK"
+      },
+      {
+        "ders": "TC İnkılap Tarihi ve Atatürkçülük",
+        "ogretmen": "MEHMET AK"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AYLİN GÜL"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AYLİN GÜL"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "NEJLA LEVENT"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "NEJLA LEVENT"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "ASLIHAN ALTUĞ"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "ASLIHAN ALTUĞ"
+      }
+    ]
+  },
+  "12-C": {
+    "Pazartesi": [
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "FATMA İMAMOĞLU ATAR"
+      },
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "BÜŞRA BERBEROĞLU"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "ESRA SANCAR"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "ESRA SANCAR"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "SERDAR SUSAM"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "SERDAR SUSAM"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "SEVDA KADAKAL"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "SEVDA KADAKAL"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "ESRA SANCAR"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "ESRA SANCAR"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BÜŞRA BERBEROĞLU"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BÜŞRA BERBEROĞLU"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "ESRA SANCAR"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "ESRA SANCAR"
+      },
+      {
+        "ders": "DKAB ÖMER ALKAN",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "DKAB ÖMER ALKAN",
+        "ogretmen": "-"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BÜŞRA BERBEROĞLU"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BÜŞRA BERBEROĞLU"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AYLİN GÜL"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AYLİN GÜL"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "EMEL GÖKBULUT"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "EMEL GÖKBULUT"
+      },
+      {
+        "ders": "TC İnkılap Tarihi ve Atatürkçülük",
+        "ogretmen": "MEHMET AK"
+      },
+      {
+        "ders": "TC İnkılap Tarihi ve Atatürkçülük",
+        "ogretmen": "MEHMET AK"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "FATMA İMAMOĞLU ATAR"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "FATMA İMAMOĞLU ATAR"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "FATMA İMAMOĞLU ATAR"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "EMEL GÖKBULUT"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "EMEL GÖKBULUT"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "EMEL GÖKBULUT"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AYLİN GÜL"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "AYLİN GÜL"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "SERDAR SUSAM"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "SERDAR SUSAM"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "FATMA İMAMOĞLU ATAR"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "EMEL GÖKBULUT"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "EMEL GÖKBULUT"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "EMEL GÖKBULUT"
+      },
+      {
+        "ders": "Beden Eğitimi / Görsel Sanatlar",
+        "ogretmen": "EMRAH ÇALIŞKAN / ELİF DİDE KUBAT"
+      },
+      {
+        "ders": "Beden Eğitimi / Görsel Sanatlar",
+        "ogretmen": "EMRAH ÇALIŞKAN / ELİF DİDE KUBAT"
+      }
+    ]
+  },
+  "12-D": {
+    "Pazartesi": [
+      {
+        "ders": "TC İnkılap Tarihi ve Atatürkçülük",
+        "ogretmen": "FUNDA KOTAN"
+      },
+      {
+        "ders": "TC İnkılap Tarihi ve Atatürkçülük",
+        "ogretmen": "FUNDA KOTAN"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "FATMA İMAMOĞLU ATAR"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "FATMA İMAMOĞLU ATAR"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "FATMA İMAMOĞLU ATAR"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "DİDEM BAYHAN"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "DİDEM BAYHAN"
+      },
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "SALİH ŞAHİN"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "FATMA İMAMOĞLU ATAR"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "FATMA İMAMOĞLU ATAR"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "SERDAR SUSAM"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "SERDAR SUSAM"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "FUNDA KOTAN"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "FUNDA KOTAN"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "DİDEM BAYHAN"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "DİDEM BAYHAN"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BUSE KÖRHALİLLER"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BUSE KÖRHALİLLER"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "SALİH ŞAHİN"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "SALİH ŞAHİN"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BUSE KÖRHALİLLER"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "BUSE KÖRHALİLLER"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "DİDEM BAYHAN"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "DİDEM BAYHAN"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "Beden Eğitimi / Görsel Sanatlar",
+        "ogretmen": "EMRAH ÇALIŞKAN / ELİF DİDE KUBAT"
+      },
+      {
+        "ders": "Beden Eğitimi / Görsel Sanatlar",
+        "ogretmen": "EMRAH ÇALIŞKAN / ELİF DİDE KUBAT"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "SERDAR SUSAM"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "SERDAR SUSAM"
+      },
+      {
+        "ders": "DKAB ÖMER ALKAN",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "DKAB ÖMER ALKAN",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "SALİH ŞAHİN"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "SALİH ŞAHİN"
+      }
+    ]
+  },
+  "12-E": {
+    "Pazartesi": [
+      {
+        "ders": "Beden Eğitimi / Görsel Sanatlar",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      },
+      {
+        "ders": "Beden Eğitimi / Görsel Sanatlar",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNAK"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNAK"
+      },
+      {
+        "ders": "TC İnkılap Tarihi ve Atatürkçülük",
+        "ogretmen": "FUNDA KOTAN"
+      },
+      {
+        "ders": "TC İnkılap Tarihi ve Atatürkçülük",
+        "ogretmen": "FUNDA KOTAN"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "RUKİYE ÜNLÜ FUTTU"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "RUKİYE ÜNLÜ FUTTU"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "DKAB ÖMER ALKAN",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "DKAB ÖMER ALKAN",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "SİBEL DURAN"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "SİBEL DURAN"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "FUNDA KOTAN"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "FUNDA KOTAN"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "RUKİYE ÜNLÜ FUTTU"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "RUKİYE ÜNLÜ FUTTU"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "GÜZİN BALCI"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "GÜZİN BALCI"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "GÜZİN BALCI"
+      },
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNA K"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "SİBEL DURAN"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "SİBEL DURAN"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "SALİH ŞAHİN"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "SALİH ŞAHİN"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "GÜZİN BALCI"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "GÜZİN BALCI"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "GÜZİN BALCI"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "SALİH ŞAHİN"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "SALİH ŞAHİN"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "SİBEL DURAN"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "SİBEL DURAN"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "GÜZİN BALCI"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "GÜZİN BALCI"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNAK"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNAK"
+      }
+    ]
+  },
+  "12-F": {
+    "Pazartesi": [
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "AHMET ARICI"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "AHMET ARICI"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "DİDEM BAYHAN"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "DİDEM BAYHAN"
+      },
+      {
+        "ders": "TC İnkılap Tarihi ve Atatürkçülük",
+        "ogretmen": "FUNDA KOTAN"
+      },
+      {
+        "ders": "TC İnkılap Tarihi ve Atatürkçülük",
+        "ogretmen": "FUNDA KOTAN"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "SEVDA KADAKAL"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "SEVDA KADAKAL"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNAK"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNAK"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "DİDEM BAYHAN"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "DİDEM BAYHAN"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "FATMA ÖZGE KILIÇ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "FATMA ÖZGE KILIÇ"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "KEMAL ERDEM"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "KEMAL ERDEM"
+      },
+      {
+        "ders": "Beden Eğitimi / Görsel Sanatlar",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      },
+      {
+        "ders": "Beden Eğitimi / Görsel Sanatlar",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNA K"
+      },
+      {
+        "ders": "Seçmeli Kimya",
+        "ogretmen": "NAMIK KEMAL DEMİRKAYNA K"
+      },
+      {
+        "ders": "DKAB ÖMER ALKAN",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "DKAB ÖMER ALKAN",
+        "ogretmen": "-"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "AHMET ARICI"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "FATMA ÖZGE KILIÇ"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "FATMA ÖZGE KILIÇ"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "DİDEM BAYHAN"
+      },
+      {
+        "ders": "Seç. Biyoloji + Hedef Temelli",
+        "ogretmen": "DİDEM BAYHAN"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "AHMET ARICI"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "AHMET ARICI"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "AHMET ARICI"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "KEMAL ERDEM"
+      },
+      {
+        "ders": "Seçmeli Fizik",
+        "ogretmen": "KEMAL ERDEM"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "AHMET ARICI"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "AHMET ARICI"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "AHMET ARICI"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      },
+      {
+        "ders": "Türk Dili ve Edebiyatı",
+        "ogretmen": "AZİZ BAYRAMOĞLU"
+      }
+    ]
+  },
+  "12-G": {
+    "Pazartesi": [
+      {
+        "ders": "Seçmeli Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Seçmeli Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "NİMET YILMAZ ÖRTÜLÜ"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "NİMET YILMAZ ÖRTÜLÜ"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "NİMET YILMAZ ÖRTÜLÜ"
+      }
+    ],
+    "Salı": [
+      {
+        "ders": "Beden Eğitimi / Görsel Sanatlar",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      },
+      {
+        "ders": "Beden Eğitimi / Görsel Sanatlar",
+        "ogretmen": "AYŞE ÖZDEMİR"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "NİMET YILMAZ ÖRTÜLÜ"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "NİMET YILMAZ ÖRTÜLÜ"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "NİMET YILMAZ ÖRTÜLÜ"
+      },
+      {
+        "ders": "Rehberlik ve Yönlendirme",
+        "ogretmen": "NİMET YILMAZ ÖRTÜLÜ"
+      },
+      {
+        "ders": "Seç. Hedef Temelli + T2",
+        "ogretmen": "FUNDA KOTAN"
+      },
+      {
+        "ders": "Seç. Hedef Temelli + T2",
+        "ogretmen": "FUNDA KOTAN"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "ders": "Seç. Peygamberimizin Hayatı",
+        "ogretmen": "FUNDA KOTAN"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "NİMET YILMAZ ÖRTÜLÜ"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "NİMET YILMAZ ÖRTÜLÜ"
+      },
+      {
+        "ders": "Seç. Hedef Temelli + M",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      },
+      {
+        "ders": "Seç. Hedef Temelli + M",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      }
+    ],
+    "Perşembe": [
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      },
+      {
+        "ders": "Matematik + Seç. Proje Tasarımı",
+        "ogretmen": "DİLEK OĞUZ KARA"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "NİMET YILMAZ ÖRTÜLÜ"
+      },
+      {
+        "ders": "Türk Düşünce Tarihi",
+        "ogretmen": "NİMET YILMAZ ÖRTÜLÜ"
+      },
+      {
+        "ders": "Çağdaş Türk ve Dünya Tarihi",
+        "ogretmen": "FUNDA KOTAN"
+      },
+      {
+        "ders": "Çağdaş Türk ve Dünya Tarihi",
+        "ogretmen": "FUNDA KOTAN"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "RUKİYE ÜNLÜ FUTTU"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "RUKİYE ÜNLÜ FUTTU"
+      }
+    ],
+    "Cuma": [
+      {
+        "ders": "DKAB ÖMER ALKAN",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "DKAB ÖMER ALKAN",
+        "ogretmen": "-"
+      },
+      {
+        "ders": "TC İnkılap Tarihi ve Atatürkçülük",
+        "ogretmen": "MEHMET AK"
+      },
+      {
+        "ders": "TC İnkılap Tarihi ve Atatürkçülük",
+        "ogretmen": "MEHMET AK"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "RUKİYE ÜNLÜ FUTTU"
+      },
+      {
+        "ders": "İngilizce",
+        "ogretmen": "RUKİYE ÜNLÜ FUTTU"
+      },
+      {
+        "ders": "Seçmeli Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      },
+      {
+        "ders": "Seçmeli Coğrafya",
+        "ogretmen": "ÖZTÜRK ÖZDEMİR"
+      }
+    ]
+  }
+}

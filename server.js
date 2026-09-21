@@ -3,13 +3,30 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 const fs = require('fs');
 const path = require('path');
-const studentRoutes = require('./routes/students');
-app.use('/api/students', studentRoutes);
 require('dotenv').config();
 
+// ⚠️ ÖNCE app tanımlanmalı
 const app = express();
+
+// ============ MIDDLEWARE ============
 app.use(cors());
-// Ders programı JSON'unu sun
+app.use(express.json());
+
+// ============ ROUTE'LARI IMPORT ET ============
+const authRoutes = require('./routes/auth');
+const homeworkRoutes = require('./routes/homework');
+const announcementRoutes = require('./routes/announcement');
+const userRoutes = require('./routes/users');
+const studentRoutes = require('./routes/students');
+
+// ============ ROUTE'LARI KULLAN ============
+app.use('/api/auth', authRoutes);
+app.use('/api/homeworks', homeworkRoutes);
+app.use('/api/announcements', announcementRoutes);
+app.use('/api/users', userRoutes);
+app.use('/api/students', studentRoutes);
+
+// ============ DERS PROGRAMI ============
 app.get('/api/schedule', (req, res) => {
   try {
     const schedulePath = path.join(__dirname, 'schedule.json');
@@ -22,28 +39,18 @@ app.get('/api/schedule', (req, res) => {
     res.status(500).json({ error: err.message });
   }
 });
-app.use(express.json());
 
-// MongoDB Bağlantısı
-mongoose.connect(process.env.MONGODB_URI)
-  .then(() => console.log('✅ MongoDB bağlantısı başarılı'))
-  .catch(err => console.error('❌ MongoDB bağlantı hatası:', err));
-
-// Route'lar
-const authRoutes = require('./routes/auth');
-const homeworkRoutes = require('./routes/homework');
-const announcementRoutes = require('./routes/announcement');
-const userRoutes = require('./routes/users');
-app.use('/api/users', userRoutes);
-app.use('/api/auth', authRoutes);
-app.use('/api/homeworks', homeworkRoutes);
-app.use('/api/announcements', announcementRoutes);
-
-// Test endpoint
+// ============ TEST ENDPOINT ============
 app.get('/api/test', (req, res) => {
   res.json({ message: 'Backend çalışıyor!' });
 });
 
+// ============ MONGODB BAĞLANTISI ============
+mongoose.connect(process.env.MONGODB_URI)
+  .then(() => console.log('✅ MongoDB bağlantısı başarılı'))
+  .catch(err => console.error('❌ MongoDB bağlantı hatası:', err));
+
+// ============ SUNUCUYU BAŞLAT ============
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   console.log(`🚀 Sunucu ${PORT} portunda çalışıyor`);

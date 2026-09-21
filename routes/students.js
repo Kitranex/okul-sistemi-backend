@@ -1,8 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const User = require('../models/User');
-const Homework = require('../models/Homework');
-const StudentNote = require('../models/StudentNote');
+const Homework = require('../models/homework');const StudentNote = require('../models/StudentNote');
 const auth = require('../middleware/auth');
 
 // Bir sınıftaki tüm öğrencileri ödev istatistikleriyle listele

@@ -137,12 +137,21 @@ app.use((err, req, res, next) => {
 });
 
 // ============ MONGODB BAĞLANTISI ============
-mongoose.connect(process.env.MONGODB_URI)
-  .then(() => console.log('✅ MongoDB bağlantısı başarılı'))
-  .catch(err => console.error('❌ MongoDB bağlantı hatası:', err));
-
-// ============ SUNUCUYU BAŞLAT ============
 const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => {
-  console.log(`🚀 Sunucu ${PORT} portunda çalışıyor`);
-});
+
+mongoose.connect(process.env.MONGODB_URI)
+  .then(() => {
+    console.log('✅ MongoDB bağlantısı başarılı');
+
+    // MongoDB bağlandıktan SONRA sunucuyu başlat
+    app.listen(PORT, () => {
+      console.log(`🚀 Sunucu ${PORT} portunda çalışıyor`);
+    });
+  })
+  .catch(err => {
+    console.error('❌ MongoDB bağlantı hatası:', err);
+    // Bağlantı başarısızsa yine de başlat (hata vermeden bekle)
+    app.listen(PORT, () => {
+      console.log(`⚠️ Sunucu ${PORT} portunda çalışıyor (MongoDB bağlantısı yok)`);
+    });
+  });

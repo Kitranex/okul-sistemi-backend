@@ -3,7 +3,6 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 const helmet = require('helmet');
 const rateLimit = require('express-rate-limit');
-const mongoSanitize = require('express-mongo-sanitize');
 const fs = require('fs');
 const path = require('path');
 require('dotenv').config();
@@ -43,8 +42,25 @@ app.use(express.json({ limit: '10mb' }));
 app.use(express.urlencoded({ extended: true, limit: '10mb' }));
 
 // 4. NoSQL Injection koruması
-app.use(mongoSanitize());
-
+// NoSQL Injection koruması (Express 5 uyumlu özel sanitizer)
+app.use((req, res, next) => {
+  const sanitize = (obj) => {
+    if (obj && typeof obj === 'object') {
+      for (const key in obj) {
+        if (key.startsWith('$') || key.includes('.')) {
+          delete obj[key];
+        } else if (typeof obj[key] === 'object') {
+          sanitize(obj[key]);
+        }
+      }
+    }
+    return obj;
+  };
+  if (req.body) sanitize(req.body);
+  if (req.params) sanitize(req.params);
+  // req.query'ye dokunmuyoruz (Express 5'te read-only)
+  next();
+});
 // 5. Rate Limiting - Global
 const globalLimiter = rateLimit({
   windowMs: 15 * 60 * 1000, // 15 dakika

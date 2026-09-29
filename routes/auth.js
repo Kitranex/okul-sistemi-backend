@@ -13,7 +13,20 @@ router.post('/register', auth, async (req, res) => {
     if (req.user.role !== 'teacher') {
       return res.status(403).json({ error: 'Sadece öğretmenler hesap ekleyebilir.' });
     }
+
     const { tc, password, role, name, branch, className } = req.body;
+
+    // ⚠️ Sadece ADMIN, öğretmen hesabı açabilir
+    const isAdmin = req.user.tc === '10000000000';
+    if (role === 'teacher' && !isAdmin) {
+      return res.status(403).json({ error: 'Sadece sistem yöneticisi öğretmen ekleyebilir.' });
+    }
+
+    // Öğretmenler sadece öğrenci ekleyebilir
+    if (role !== 'student' && !isAdmin) {
+      return res.status(403).json({ error: 'Sadece öğrenci ekleyebilirsiniz.' });
+    }
+
     const existing = await User.findOne({ tc });
     if (existing) return res.status(400).json({ error: 'Bu T.C. zaten kayıtlı.' });
 

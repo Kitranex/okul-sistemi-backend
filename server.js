@@ -5,6 +5,8 @@ const helmet = require('helmet');
 const rateLimit = require('express-rate-limit');
 const fs = require('fs');
 const path = require('path');
+const adminRoutes = require('./routes/admin');
+app.use('/api/admin', adminRoutes);
 require('dotenv').config();
 
 const app = express();

@@ -66,12 +66,17 @@ const globalLimiter = rateLimit({
 });
 app.use('/api', globalLimiter);
 
+// Login rate limit - IP başına 15 dakikada 200 deneme (okullar için ayarlandı)
 const loginLimiter = rateLimit({
   windowMs: 15 * 60 * 1000,
-  max: 10,
+  max: 200,
   message: { error: 'Çok fazla giriş denemesi. Lütfen 15 dakika sonra tekrar deneyin.' },
   standardHeaders: true,
-  legacyHeaders: false
+  legacyHeaders: false,
+  keyGenerator: (req) => {
+    // IP + TC kombinasyonu → Farklı TC'ler aynı IP'den giriş yapabilir
+    return (req.ip || 'unknown') + '_' + (req.body?.tc || 'no_tc');
+  }
 });
 app.use('/api/auth/login', loginLimiter);
 
